@@ -73,6 +73,10 @@ python app.py
 5. Seleccioná las filas que querés renombrar (o dejá todo sin seleccionar
    para renombrar todo) y tocá **"Renombrar seleccionados/todos"**.
 
+📖 **[Manual paso a paso, con capturas](docs/CanonicaDL-Manual.pdf)** — recorrido
+completo desde elegir la carpeta hasta el renombrado final, incluyendo
+búsqueda manual y carga de varios autores.
+
 ## Stack técnico
 
 Python 3 · [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
