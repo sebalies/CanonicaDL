@@ -1,0 +1,19 @@
+# Compilación / PyInstaller
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos de usuario / runtime (no deben subirse al repo)
+presets_personalizados.json
+icono_debug.log
+icono_error.log
+analizar_error.log
+
+# Editor / SO
+.vscode/
+.DS_Store
+Thumbs.db
